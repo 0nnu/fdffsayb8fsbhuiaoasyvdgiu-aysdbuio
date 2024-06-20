@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching ExtraBot ✨","LISTENING TO التقديمات على الإدارة","THE OWNER OF ZORT ALKTRK & ExtraBot ✨","VOTE ME https://discordbotlist.com/bots/extrabot","0nnu#7363"];
+const statusMessages = ["Watching ExtraBot ✨","LISTENING TO التقديمات على الإدارة","THE OWNER OF ZORT ALKTRK & ExtraBot ✨","VOTE ME | صوت لي https://discordbotlist.com/bots/extrabot","0nnu#7363"];
 
 
 let currentIndex = 0;
